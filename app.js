@@ -1,3 +1,3 @@
 window.addEventListener('load',()=>{
-    const sounds= document.querySelectorAll(.sound)
+    const sounds= document.querySelectorAll(".sound");
 });
